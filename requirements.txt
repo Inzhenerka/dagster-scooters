@@ -1,0 +1,7 @@
+pydantic==2.8.2
+dbt-core
+dbt-postgres
+dagster-dbt
+dagster-docker
+dagster_postgres
+pandas
